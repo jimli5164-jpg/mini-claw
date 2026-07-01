@@ -1,0 +1,27 @@
+# LLM
+openai>=1.0.0
+
+# 飞书 SDK
+lark-oapi>=1.6.0
+
+# DuckDuckGo 搜索
+ddgs>=0.5.0
+
+# YAML 解析
+pyyaml>=6.0
+
+# HTTP 客户端
+httpx>=0.24.0
+
+# WebSocket
+websockets>=11.0
+
+# 嵌套事件循环
+nest-asyncio>=1.5.0
+
+# 加密
+pycryptodome>=3.9.0
+
+# 请求工具
+requests>=2.25.0
+requests-toolbelt>=0.9.0
